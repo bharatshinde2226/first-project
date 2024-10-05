@@ -1,3 +1,3 @@
 # first-project
 This is my first Git Repository.
-Author - Bharat Shinde.
+Author - Bharat Shinde
